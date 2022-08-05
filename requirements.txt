@@ -1,0 +1,2 @@
+pygsheets==2.0.5
+selenium==4.3.0
